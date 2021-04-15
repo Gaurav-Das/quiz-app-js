@@ -83,15 +83,7 @@ function clearStatusClass(element){
 }
 
 const questions = [
-    {
-        question: 'When is Christmas?',
-        answers : [
-            { text : '25th Dec', correct : true},
-            { text : '12th Jun', correct : false},
-            { text : '25th Nov', correct : false},
-            { text : '30th Feb', correct : false}
-        ]
-    },
+    
     {
         question: 'What is the length of Cricket pitch ?',
         answers : [
@@ -137,24 +129,7 @@ const questions = [
             { text : 'Australia', correct : false}
         ]
     },
-    {
-        question: 'Which ICC award did Ben Stokes win for his all-round performance in 2019?',
-        answers : [
-            { text : 'Ravi  Shastri', correct : false},
-            { text : 'Gary Kirsten', correct : true},
-            { text : 'Virat Kolhi', correct : false},
-            { text : 'Sunil Gavaskar', correct : false}
-        ]
-    },
-    {
-        question: 'Which ICC award did Ben Stokes win for his all-round performance in 2019?',
-        answers : [
-            { text : 'Ravi  Shastri', correct : false},
-            { text : 'Gary Kirsten', correct : true},
-            { text : 'Virat Kolhi', correct : false},
-            { text : 'Sunil Gavaskar', correct : false}
-        ]
-    },
+    
     {
         question: 'Which ICC award did Ben Stokes win for his all-round performance in 2019?',
         answers : [
